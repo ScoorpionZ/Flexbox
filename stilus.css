@@ -1,0 +1,13 @@
+@charset "UTF-8"
+body{
+    background-color: gray;
+}
+
+main{
+    background-color: pink;
+}
+
+main, article, nav, header, footer{
+    border: 1px solid black;
+    padding: 10px;
+}
